@@ -1,4 +1,4 @@
-![CalcX - Loan Calculator API Logo](assets/calcx-cover.png)
+![CalcX - Loan Calculator API Logo](assets/calcxcover.png)
 
 # CalcX - Loan Calculator API
 
